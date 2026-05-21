@@ -1,0 +1,1 @@
+{"version":3,"file":"note.entity.js","sourceRoot":"","sources":["../../src/entities/note.entity.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAsC;AACtC,+CAA+C;AAOxC,IAAM,IAAI,GAAV,MAAM,IAAK,SAAQ,kBAAI;IAC5B;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,QAAQ,GAAG,sBAAQ,CAAC,IAAI,CAAC;IAChC,CAAC;CACF,CAAA;AALY,oBAAI;eAAJ,IAAI;IADhB,IAAA,qBAAW,EAAC,sBAAQ,CAAC,IAAI,CAAC;;GACd,IAAI,CAKhB"}
